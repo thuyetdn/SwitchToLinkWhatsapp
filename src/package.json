@@ -1,0 +1,18 @@
+{
+  "title": "InputAdornments Material Demo",
+  "name": "InputAdornments Material Demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.2.6/docs/src/pages/components/text-fields/InputAdornments.js",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@mui/styles": "5.2.3",
+    "encodeurl": "1.0.2",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
